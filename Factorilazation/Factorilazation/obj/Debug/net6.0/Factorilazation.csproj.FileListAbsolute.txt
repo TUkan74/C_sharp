@@ -1,0 +1,15 @@
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\bin\Debug\net6.0\Factorilazation.exe
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\bin\Debug\net6.0\Factorilazation.deps.json
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\bin\Debug\net6.0\Factorilazation.runtimeconfig.json
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\bin\Debug\net6.0\Factorilazation.dll
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\bin\Debug\net6.0\Factorilazation.pdb
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.csproj.AssemblyReference.cache
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.AssemblyInfoInputs.cache
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.AssemblyInfo.cs
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.csproj.CoreCompileInputs.cache
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.dll
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\refint\Factorilazation.dll
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.pdb
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\Factorilazation.genruntimeconfig.cache
+C:\Users\kleck\source\repos\Factorilazation\Factorilazation\obj\Debug\net6.0\ref\Factorilazation.dll

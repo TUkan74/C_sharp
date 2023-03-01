@@ -1,0 +1,8 @@
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\bin\Debug\Knight_path.exe.config
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\bin\Debug\Knight_path.exe
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\bin\Debug\Knight_path.pdb
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\obj\Debug\Knight_path.csproj.AssemblyReference.cache
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\obj\Debug\Knight_path.csproj.SuggestedBindingRedirects.cache
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\obj\Debug\Knight_path.csproj.CoreCompileInputs.cache
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\obj\Debug\Knight_path.exe
+C:\Users\kleck\C_sharp_github\C_sharp\knight\Knight_path\Knight_path\obj\Debug\Knight_path.pdb

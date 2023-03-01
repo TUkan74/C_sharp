@@ -10,6 +10,13 @@ namespace Knight_path
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            
+            string coor =  Console.ReadLine();
+
+            Console.WriteLine(coor);
+
+            Console.ReadLine();
         }
     }
 }

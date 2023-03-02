@@ -30,8 +30,8 @@ namespace Knight_path
         static void Main(string[] args)
         {
             //variables
-            int[,] sachovnica;
-            sachovnica = new int[8,8];
+            int[,] board;
+            board = new int[8,8];
 
 
 
@@ -42,19 +42,25 @@ namespace Knight_path
             (int, int) end = (0, 0);
             string[] cor;
             int num_o = Convert.ToInt32(Console.ReadLine()) ;
-            
+            //coordinance of obstacles added to board
             for (int i = 0;i < num_o;i++) {
                 
                 cor=(Console.ReadLine()).Split(' ');
-                
-
+                board[Convert.ToInt32(cor[0]), Convert.ToInt32(cor[1])] = 1;
             }
+            //start position
+            cor = (Console.ReadLine()).Split(' ');
+            start = (Convert.ToInt32(cor[0]), Convert.ToInt32(cor[1]));
+            //end position
+            cor = (Console.ReadLine()).Split(' ');
+            end = (Convert.ToInt32(cor[0]), Convert.ToInt32(cor[1]));
+
             //write out whole array
             /*foreach (var sq in sachovnica)
             {
                 System.Console.WriteLine($"<{sq}>");
             }*/
-
+            
             Console.ReadLine();
         }
     }

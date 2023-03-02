@@ -30,8 +30,8 @@ namespace Knight_path
         static void Main(string[] args)
         {
             //variables
-            bool[,] sachovnica;
-            sachovnica = new bool[8,8];
+            int[,] sachovnica;
+            sachovnica = new int[8,8];
 
 
 
@@ -40,17 +40,21 @@ namespace Knight_path
             (int, int) sur = (0, 0);
             (int , int) start = (0, 0);
             (int, int) end = (0, 0);
-            string cor;
+            string[] cor;
             int num_o = Convert.ToInt32(Console.ReadLine()) ;
             
-            for (int i = 0;i < num_o;i++)
-            {
-                cor = Console.ReadLine();
-                for (int j = 0;j < cor.Length;j++) {
-                    if (cor[j] != )
-                }
+            for (int i = 0;i < num_o;i++) {
+                
+                cor=(Console.ReadLine()).Split(' ');
+                
+
             }
-            //Console.WriteLine($"{sachovnica[0, 0]}");
+            //write out whole array
+            /*foreach (var sq in sachovnica)
+            {
+                System.Console.WriteLine($"<{sq}>");
+            }*/
+
             Console.ReadLine();
         }
     }

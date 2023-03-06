@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Knight_path",
+    "\\Knight_path\\Knight_path"
   ],
+  "SelectedNode": "\\Knight_path\\Knight_path\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
